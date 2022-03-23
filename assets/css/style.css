@@ -1,0 +1,16 @@
+.plant {background-color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+
+}
+div {
+    display: flex;
+    justify-content: center;
+    }
+.navlist-right {
+    float: right;
+}
+
+.header { color: white;
+
+}
