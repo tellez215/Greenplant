@@ -16,21 +16,20 @@ font-size: large;
     line-height: 20px;}
 
   .ul {
-        background-color: lightskyblue;
+        background-color: lightgreen;
         
     }
     .padding { border: green;
         border: 10px solid green;
-        padding: 10px;
-        margin-top: 0;
-            bottom: 0;
-    }
+        padding: 10px 10px;
+        text-align: center;
+      }
 
     .header {
         background-color: lightgreen;
         text-align: center;
         padding: 20px;
-        color: white;
+        color: black;
         border-top:10px solid green;
 
     }
