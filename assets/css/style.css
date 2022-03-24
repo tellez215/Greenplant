@@ -5,6 +5,10 @@
   .font {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
   }
+.txt{
+font-size: large;
+
+}
   .nav { background-color: green;
     line-height: 20px;}
 
@@ -13,7 +17,8 @@
         
     }
     .padding { border: green;
-        padding-top: 10%;
+        border: 10px solid green;
+        padding: 10px;
     }
 
     .header {
@@ -32,7 +37,7 @@
             margin-top: 0;
             bottom: 0;
             border-bottom: 10px solid green;
-            color: #FDF8F5;           
+            color: black;           
     }
     .container {
         color: seagreen;
