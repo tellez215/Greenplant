@@ -1,16 +1,39 @@
-.plant {background-color: green;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    
+* {
+    margin:0;
+    padding:0;  
+  }
+  .nav { background-color: green;
+    line-height: 20px;}
 
-}
-div {
-    display: flex;
-    justify-content: center;
+  .ul {
+        background-color: lightskyblue;
+        
     }
-.navlist-right {
-    float: right;
-}
 
-.header { color: white;
+    .header {
+        background-color: lightgreen;
+        text-align: center;
+        padding: 20px;
+        color: white;
+        border-top:10px solid green;
 
-}
+    }
+    .footer {
+        background-color: lightgreen;
+        text-align:center;
+        padding: 30px;
+        
+            margin-top: 0;
+            bottom: 0;
+            border-bottom: 10px solid green;
+            color: #FDF8F5;           
+    }
+
+  .text-center {
+    text-align: center;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
+  
