@@ -13,7 +13,10 @@ font-size: large;
 
 }
   .nav { background-color: green;
-    line-height: 20px;}
+    line-height: 20px;
+    width: 100%;
+    float: right;
+}
 
   .ul {
         background-color: lightgreen;
@@ -23,6 +26,7 @@ font-size: large;
         border: 10px solid green;
         padding: 10px 10px;
         text-align: center;
+        border-radius: 20%;
       }
 
     .header {
@@ -35,13 +39,12 @@ font-size: large;
     }
     .footer {
         background-color: lightgreen;
-        text-align:center;
+        text-align:justify;
         padding: 30px;
-        
-            margin-top: 0;
-            bottom: 0;
-            border-bottom: 10px solid green;
-            color: black;           
+        margin-top: 0;
+        bottom: 0;
+        border-bottom: 10px solid green;
+        color: black;           
     }
     .container {
         color: seagreen;
@@ -55,5 +58,7 @@ font-size: large;
   
   .text-right {
     text-align: right;
+    display: inline;
+
   }
   
